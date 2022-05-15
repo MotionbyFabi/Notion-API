@@ -12,7 +12,7 @@ const Home: NextPage = () => {
 
       <main className="flex w-full flex-1 flex-col items-center justify-center px-20 text-center bg-purple-700">
         <h1 className="text-6xl font-bold">
-          Notion CMS
+          This is just a test 
         </h1>
       </main>
     </div>
