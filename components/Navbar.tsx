@@ -10,12 +10,7 @@ const Navbar: React.FC<NavbarProps> = ({}) => {
         return (
         <>
                 <nav>
-                        <div className='w-5 h-5'> {/* Logo */}
-                               <Image src={} layout="responsive"></Image>
-                        </div>
-                        <ul className='list-none'>
-                                <Link href="/"><a></a></Link>
-                        </ul>
+                       Something
                 </nav>
         </>);
 }
