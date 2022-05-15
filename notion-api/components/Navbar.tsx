@@ -5,6 +5,6 @@ interface NavbarProps {
 }
 
 const Navbar: React.FC<NavbarProps> = ({}) => {
-        return (<></>);
+        return (<>I am a navbar</>);
 }
 export default Navbar;
